@@ -1,0 +1,18 @@
+[main]
+
+next = task1 , task2, task3
+
+[task1]
+code = 
+    ls
+    pwd
+
+[task2]
+code = 
+    ls
+    pwd
+
+[task3]
+code = 
+    ls
+    pwd
